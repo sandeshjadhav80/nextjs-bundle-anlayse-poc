@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 const contentstack = require('contentstack');
 var _ = require('lodash');
 
-export default function Home() {
+export default function Page2() {
   return (
     <div className={styles.container}>
       <Head>
